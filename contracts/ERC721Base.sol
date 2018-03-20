@@ -1,6 +1,6 @@
 pragma solidity ^0.4.18;
 
-import 'github.com/zeppelin-solidity/contracts/math/SafeMath.sol';
+import 'github.com/OpenZeppelin/zeppelin-solidity/contracts/math/SafeMath.sol';
 
 import './AssetRegistryStorage.sol';
 
